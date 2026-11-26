@@ -36,6 +36,18 @@
 
 ## Учебные и дипломные проекты
 
+### Ручное тестирование
+
+### Автоматизация тестирования
+
+Дипломный проект Яндекс Практикума — тестирование приложения Stellar Burgers.
+
+| Проект | Описание | Инструменты |
+| --- | --- | --- |
+| [Юнит-тестирование](https://github.com/Irina-java/Irina-java/tree/main/Unit-Testing) | Разработка модульных и параметризованных тестов, использование моков, анализ покрытия кода тестами | Java, JUnit, Mockito, Maven, JaCoCo |
+| [API-тестирование](https://github.com/Irina-java/Irina-java/tree/main/API-Testing) | Автоматизация проверок создания и авторизации пользователя, создания заказов | Java, JUnit, REST Assured, Maven, Allure |
+| [UI-тестирование](https://github.com/Irina-java/Irina-java/tree/main/UI-Testing) | Автоматизация проверок регистрации, авторизации и работы конструктора бургеров. Применение Page Object | Java, JUnit, Selenium WebDriver, Maven, Allure |
+
 ## Контакты
 
 - Telegram: [@irkab92](https://t.me/irkab92)
